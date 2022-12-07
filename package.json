@@ -16,7 +16,7 @@
     "file-saver": "^2.0.2",
     "qrcode": "^1.4.1",
     "qrcode2": "^1.2.3",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "vue": "^2.5.2",
     "vue-clipboard2": "^0.3.0",
     "vue-particles": "^1.0.9",
